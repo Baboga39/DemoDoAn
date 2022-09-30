@@ -734,7 +734,7 @@ a:focus {
 }
 
 .home .slide-container .slide .image {
-  flex: 1 1 50rem;
+  flex: 0 1 50rem;
   padding-bottom: 15rem;
   position: relative;
   z-index: 0;
@@ -746,7 +746,6 @@ a:focus {
 }
 
 .home .slide-container .slide .image .text {
-  position: absolute;
   top: 0;
   left: 0;
   z-index: -1;
@@ -1581,7 +1580,6 @@ a:focus {
   border-style: none;
   height: 100%;
 }
-
 .discount__text {
   background: #f4f4f4;
   height: 390px;
