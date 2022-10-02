@@ -2354,7 +2354,9 @@ a:focus {
 .shop__sidebar__search form {
   position: relative;
 }
-
+ .active{
+  z-index: 1;
+}
 .shop__sidebar__search form input {
   width: 100%;
   font-size: 15px;
